@@ -1,0 +1,1 @@
+This project creates a 'localhost' server and logs information of visitors and appends them into a csv file while also creating a route that displays the information logged ad JSON. Uses the manipulation of data and saving information such as: Agent,Time,Method,Resource,Version,Status of visitors browser.
